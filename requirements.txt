@@ -1,0 +1,11 @@
+streamlit
+pandas
+requests
+matplotlib
+plotly
+fpdf
+keybert
+transformers
+scikit-learn
+seaborn
+yake
